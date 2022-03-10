@@ -8,19 +8,27 @@
 * [Splunk to KQL mapping](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/splunk-cheat-sheet)   
 * [ArcSight/QRadar to KQL mapping](https://github.com/Azure/Azure-Sentinel/blob/master/Tools/RuleMigration/Rule%20Logic%20Mappings.md)  
 * [Azure Sentinel webinar: KQL part 1 of 3 - Learn the KQL you need for Azure Sentinel](https://www.youtube.com/watch?v=EDCBLULjtCM)
-* [PluralSight-Kusto Query Language (KQL) from Scratch](https://www.pluralsight.com/courses/kusto-query-language-kql-from-scratch)  
+* [PluralSight-Kusto Query Language (KQL) from Scratch](https://www.pluralsight.com/courses/kusto-query-language-kql-from-scratch) 
+* [PluralSight-KQL from Scratch-Exercises](https://github.com/arcanecode/KQL) 
 * [Write your first query with Kusto Query Language](https://docs.microsoft.com/en-us/learn/modules/write-first-query-kusto-query-language/)   
+* [Popular Azure Sentinel Tables](https://www.managedsentinel.com/wp-content/uploads/2020/01/Azure-Sentinel-Tables-v1.1.pdf)
 ### Advanced
 * [KQL Join Statement](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-correlation-rules-the-join-kql-operator/ba-p/1041500)  
 * [KQL Query Best Practices](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/best-practices)  
 * [KQL Cheatsheets](https://github.com/marcusbakker/KQL)
-* [PluralSight-Microsoft Azure Data Explorer - Advanced KQL](https://www.pluralsight.com/courses/microsoft-azure-data-explorer-advanced-query-capabilities)   
+* [KQL Playlist](https://www.youtube.com/playlist?list=PLwyttaal5U3qNKwjTPyh3p-uujk8qWU5o)
+* [PluralSight-Microsoft Azure Data Explorer - Advanced KQL](https://www.pluralsight.com/courses/microsoft-azure-data-explorer-advanced-query-capabilities)
+* [KQL Functions](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-kql-functions-to-speed-up-analysis-in-azure-sentinel/ba-p/712381)     
 ### KQL Lab Environment
 * [KQL Demo Environment](https://aka.ms/LADemo)  
 * [KQL Dataexplorer](https://aka.ms/adx.try)  
 ### KQL Cheatsheets
-* [KQL Cheatsheets](https://github.com/marcusbakker/KQL)    
+* [KQL Cheatsheets](https://github.com/marcusbakker/KQL)
+* [KQL Quick Reference](https://docs.microsoft.com/en-us/azure/data-explorer/kql-quick-reference)
+### KQL Q&A
+* [Stackoverflow](https://stackoverflow.com/questions/tagged/azure-data-explorer)
+* [Microsoft Techcommunity](https://techcommunity.microsoft.com/t5/azure-data-explorer/bd-p/Kusto)
 
-*  
+
 
 
