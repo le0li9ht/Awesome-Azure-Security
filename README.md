@@ -1,4 +1,4 @@
-# Awesome-Azure-Sentinel
+# Awesome-Microsoft-Sentinel
 ## KQL Resources
 ### Begginer Sources
 * [MustLearnKQL For Begginers](https://github.com/rod-trent/MustLearnKQL)  
@@ -40,10 +40,14 @@
 * [#KQL](https://twitter.com/search?q=%23KQL&src=typed_query)  
 * [#365daysofkql](https://twitter.com/hashtag/365daysofkql)
 
-## Azure Sentinel
+## Microsoft Sentinel
 ### Follow and Be Updated
-* [Azure Sentinel Newsletter](https://www.getrevue.co/profile/AzureSentinelToday)
-
+* [Weekly Newsletter](https://www.getrevue.co/profile/AzureSentinelToday)
+* [Twitter-#MicrosoftSentinel](https://twitter.com/hashtag/MicrosoftSentinel)
+* [Linkedin-Microsoft Sentinel Community](https://www.linkedin.com/groups/8768381/)
+* [Facebook Sentinel Page](https://www.facebook.com/MSSentinel)
+* [Rodtrent-Blog](https://azurecloudai.blog/author/rodtrent759/)
+* [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)  
 
 
 
