@@ -21,6 +21,10 @@
 * [PluralSight-Microsoft Azure Data Explorer - Advanced KQL](https://www.pluralsight.com/courses/microsoft-azure-data-explorer-advanced-query-capabilities)
 * [KQL Functions](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-kql-functions-to-speed-up-analysis-in-azure-sentinel/ba-p/712381) 
 * [Draw a tree with KQL](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/happy-holidays-draw-a-tree-with-kql/ba-p/3043973)      
+### KQL Rules
+* [Wortell's KQL Rules](https://github.com/wortell/KQL)  
+* [KQLPublic](https://github.com/clivewatson/KQLpublic)  
+* [Matt Zorich's Repo](https://github.com/reprise99/Sentinel-Queries)  
 ### KQL Lab Environment
 * [KQL Demo Environment](https://aka.ms/LADemo)  
 * [KQL Dataexplorer](https://aka.ms/adx.try)  
@@ -34,7 +38,7 @@
 * [Kusto Explorer](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/tools/kusto-explorer)
 ### KQL social Media
 * [#KQL](https://twitter.com/search?q=%23KQL&src=typed_query)  
-* [#365daysofkql](https://twitter.com/hashtag/365daysofkql?WT.mc_id=m365-0000-rotrent)
+* [#365daysofkql](https://twitter.com/hashtag/365daysofkql)
 
 
 
