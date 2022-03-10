@@ -28,6 +28,11 @@
 ### KQL Q&A
 * [Stackoverflow](https://stackoverflow.com/questions/tagged/azure-data-explorer)
 * [Microsoft Techcommunity](https://techcommunity.microsoft.com/t5/azure-data-explorer/bd-p/Kusto)
+### Tools
+* [Kusto Explorer](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/tools/kusto-explorer)
+### KQL social Media
+* [#KQL](https://twitter.com/search?q=%23KQL&src=typed_query)  
+* [#365daysofkql](https://twitter.com/hashtag/365daysofkql?WT.mc_id=m365-0000-rotrent)
 
 
 
