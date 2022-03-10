@@ -14,13 +14,13 @@
 * [KQL Join Statement](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-correlation-rules-the-join-kql-operator/ba-p/1041500)  
 * [KQL Query Best Practices](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/best-practices)  
 * [KQL Cheatsheets](https://github.com/marcusbakker/KQL)
-* [PluralSight-Microsoft Azure Data Explorer - Advanced KQL](https://www.pluralsight.com/courses/microsoft-azure-data-explorer-advanced-query-capabilities)  
-*   
+* [PluralSight-Microsoft Azure Data Explorer - Advanced KQL](https://www.pluralsight.com/courses/microsoft-azure-data-explorer-advanced-query-capabilities)   
 ### KQL Lab Environment
 * [KQL Demo Environment](https://aka.ms/LADemo)  
+* [KQL Dataexplorer](https://aka.ms/adx.try)  
 ### KQL Cheatsheets
 * [KQL Cheatsheets](https://github.com/marcusbakker/KQL)    
-* [KQL Dataexplorer](https://aka.ms/adx.try)  
+
 *  
 
 
