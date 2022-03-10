@@ -40,6 +40,10 @@
 * [#KQL](https://twitter.com/search?q=%23KQL&src=typed_query)  
 * [#365daysofkql](https://twitter.com/hashtag/365daysofkql)
 
+## Azure Sentinel
+### Follow and Be Updated
+* [Azure Sentinel Newsletter](https://www.getrevue.co/profile/AzureSentinelToday)
+
 
 
 
