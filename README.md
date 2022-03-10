@@ -4,6 +4,7 @@
 * [MustLearnKQL For Begginers](https://github.com/rod-trent/MustLearnKQL)  
 * [KQL Overview](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/)
 * [SC-200 KQL tutorial](https://docs.microsoft.com/en-us/learn/paths/sc-200-utilize-kql-for-azure-sentinel/)  
+* [blue-teaming-with-kql](https://github.com/Cyb3r-Monk/blue-teaming-with-kql)  
 * [SQL to KQL mapping](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/sqlcheatsheet)  
 * [Splunk to KQL mapping](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/splunk-cheat-sheet)   
 * [ArcSight/QRadar to KQL mapping](https://github.com/Azure/Azure-Sentinel/blob/master/Tools/RuleMigration/Rule%20Logic%20Mappings.md)  
