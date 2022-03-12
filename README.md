@@ -15,7 +15,7 @@
 * [Write your first query with Kusto Query Language](https://docs.microsoft.com/en-us/learn/modules/write-first-query-kusto-query-language/)   
 * [Popular Azure Sentinel Tables](https://www.managedsentinel.com/wp-content/uploads/2020/01/Azure-Sentinel-Tables-v1.1.pdf)
 ### Advanced
-* [Azure Sentinel KQL Part 3](https://www.youtube.com/watch?v=jN1Cz0JcLYU)  
+* [Azure Sentinel webinar: KQL Part 3 of 3](https://www.youtube.com/watch?v=jN1Cz0JcLYU)  
 * [KQL Join Statement](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-correlation-rules-the-join-kql-operator/ba-p/1041500)  
 * [KQL Query Best Practices](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/best-practices)  
 * [KQL Cheatsheets](https://github.com/marcusbakker/KQL)
