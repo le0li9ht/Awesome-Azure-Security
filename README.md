@@ -58,7 +58,8 @@
 * [Rodtrent-Blog](https://azurecloudai.blog/author/rodtrent759/)
 * [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)  
 * [What's New Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/whats-new)  
-
+### Webinars 
+* [Microsoft Sentinel Youtube Channel](https://www.youtube.com/hashtag/microsoftsentinel)  
 ### Introduction
 * [Introduction to sentinel](https://www.youtube.com/watch?v=7An7BB-CcQI)  
 * [Introduction to Sentinel-SOC](https://www.youtube.com/watch?v=HloK6Ay4h1M)  
