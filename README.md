@@ -9,6 +9,7 @@
 * [Splunk to KQL mapping](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/splunk-cheat-sheet)   
 * [ArcSight/QRadar to KQL mapping](https://github.com/Azure/Azure-Sentinel/blob/master/Tools/RuleMigration/Rule%20Logic%20Mappings.md)  
 * [Azure Sentinel webinar: KQL part 1 of 3 - Learn the KQL you need for Azure Sentinel](https://www.youtube.com/watch?v=EDCBLULjtCM)
+* [Azure Sentinel webinar: KQL part 2 of 3](https://www.youtube.com/watch?v=YKD_OFLMpf8)  
 * [PluralSight-Kusto Query Language (KQL) from Scratch](https://www.pluralsight.com/courses/kusto-query-language-kql-from-scratch) 
 * [PluralSight-KQL from Scratch-Exercises](https://github.com/arcanecode/KQL) 
 * [Write your first query with Kusto Query Language](https://docs.microsoft.com/en-us/learn/modules/write-first-query-kusto-query-language/)   
