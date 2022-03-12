@@ -26,8 +26,8 @@
 * [KQLPublic](https://github.com/clivewatson/KQLpublic)  
 * [Matt Zorich's Repo](https://github.com/reprise99/Sentinel-Queries)  
 ### KQL Workbooks
-* [Intro KQL] (https://github.com/Azure/Azure-Sentinel/blob/master/Workbooks/IntrotoKQL.json)  
-* [Advanced KQL] (https://github.com/Azure/Azure-Sentinel/blob/master/Workbooks/AdvancedKQL.json)  
+* [Intro KQL](https://github.com/Azure/Azure-Sentinel/blob/master/Workbooks/IntrotoKQL.json)  
+* [Advanced KQL](https://github.com/Azure/Azure-Sentinel/blob/master/Workbooks/AdvancedKQL.json)  
 ### KQL Lab Environment
 * [KQL Demo Environment](https://aka.ms/LADemo)  
 * [KQL Dataexplorer](https://aka.ms/adx.try)  
