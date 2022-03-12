@@ -39,6 +39,9 @@
 * [Microsoft Techcommunity](https://techcommunity.microsoft.com/t5/azure-data-explorer/bd-p/Kusto)
 ### Tools
 * [Kusto Explorer](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/tools/kusto-explorer)
+* [Kusto Cli](https://cda.ms/3c3)  
+* [Visual Studio Kusto Extension Pack](https://cda.ms/3c6)  
+* [RealTime KQL](https://cda.ms/3cz)  
 ### KQL social Media
 * [#KQL](https://twitter.com/search?q=%23KQL&src=typed_query)  
 * [#365daysofkql](https://twitter.com/hashtag/365daysofkql)
