@@ -37,6 +37,7 @@
 ### KQL Q&A
 * [Stackoverflow](https://stackoverflow.com/questions/tagged/azure-data-explorer)
 * [Microsoft Techcommunity](https://techcommunity.microsoft.com/t5/azure-data-explorer/bd-p/Kusto)
+* [KQL Cafe](https://kqlcafe.github.io/website/)  
 ### Tools
 * [Kusto Explorer](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/tools/kusto-explorer)
 * [Kusto Cli](https://cda.ms/3c3)  
