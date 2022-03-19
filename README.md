@@ -67,4 +67,10 @@
 
 ## Other
 [MSRC blog](https://msrc-blog.microsoft.com/)  
+## Microsoft Defender Endpoint
+### Follow and Be Updated
+[Microsoft Defender Endpoint-Linkedin](https://www.linkedin.com/groups/12401063/)  
+[Microsoft Defender Endpoint-Twitter](https://twitter.com/search?q=%23Defender)  
+[Microsoft Defender Weekly Wrap](https://www.getrevue.co/profile/MicrosoftDefender)  
+[Microsoft Defender Endpoint-Facebook](https://www.facebook.com/MSDefender)  
 
