@@ -70,6 +70,7 @@
 ## Other
 * [MSRC blog](https://msrc-blog.microsoft.com/)  
 * [What's Next In Microsoft Security](https://mssecurityinnovationevent.eventcore.com/) 
+* [Microsoft Security Blog](https://www.microsoft.com/security/blog/)  
 
 ## Microsoft Defender Endpoint
 ### Follow and Be Updated
