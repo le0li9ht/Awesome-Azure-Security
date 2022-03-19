@@ -66,7 +66,9 @@
 * [Introduction to Sentinel-SOC](https://www.youtube.com/watch?v=HloK6Ay4h1M)  
 
 ## Other
-[MSRC blog](https://msrc-blog.microsoft.com/)  
+* [MSRC blog](https://msrc-blog.microsoft.com/)  
+* [What's Next In Microsoft Security](https://mssecurityinnovationevent.eventcore.com/) 
+
 ## Microsoft Defender Endpoint
 ### Follow and Be Updated
 * [Microsoft Defender Endpoint-Linkedin](https://www.linkedin.com/groups/12401063/)  
