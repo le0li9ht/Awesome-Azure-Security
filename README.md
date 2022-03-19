@@ -60,7 +60,7 @@
 * [What's New Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/whats-new)  
 ### Webinars 
 * [Microsoft Sentinel Youtube Channel](https://www.youtube.com/hashtag/microsoftsentinel)  
-* [Azure Sentinel Security Webinars](aka.ms/SecurityWebinars)  
+* [Azure Sentinel Security Webinars](https://aka.ms/SecurityWebinars)  
 ### Introduction
 * [Introduction to sentinel](https://www.youtube.com/watch?v=7An7BB-CcQI)  
 * [Introduction to Sentinel-SOC](https://www.youtube.com/watch?v=HloK6Ay4h1M)  
