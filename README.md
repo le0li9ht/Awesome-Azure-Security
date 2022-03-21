@@ -57,7 +57,10 @@
 * [Facebook Sentinel Page](https://www.facebook.com/MSSentinel)
 * [Rodtrent-Blog](https://azurecloudai.blog/author/rodtrent759/)
 * [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)  
-* [What's New Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/whats-new)  
+* [What's New Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/whats-new) 
+### Follow blogs for more knowledge
+* [O365Blog](https://o365blog.com/)  
+
 ### Webinars 
 * [Microsoft Sentinel Youtube Channel](https://www.youtube.com/hashtag/microsoftsentinel)  
 * [Azure Sentinel Security Webinars](https://aka.ms/SecurityWebinars)  
