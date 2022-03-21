@@ -65,7 +65,7 @@
 * [Introduction to sentinel](https://www.youtube.com/watch?v=7An7BB-CcQI)  
 * [Introduction to Sentinel-SOC](https://www.youtube.com/watch?v=HloK6Ay4h1M)  
 ### Labs
-[Simuland](https://github.com/Azure/SimuLand)  
+* [Simuland](https://github.com/Azure/SimuLand)  
 
 ## Other
 * [MSRC blog](https://msrc-blog.microsoft.com/)  
