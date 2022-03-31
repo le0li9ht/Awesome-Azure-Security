@@ -59,23 +59,28 @@
 * [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)  
 * [What's New Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/whats-new) 
 ### Follow blogs for more knowledge
-* [O365Blog](https://o365blog.com/)  
+* [O365Blog](https://o365blog.com/)
+* [Cloud-Architekt](https://www.cloud-architekt.net/)  
+* [LearnSentinel Blog](https://learnsentinel.blog/)    
 
 ### Webinars 
 * [Microsoft Sentinel Youtube Channel](https://www.youtube.com/hashtag/microsoftsentinel)  
 * [Azure Sentinel Security Webinars](https://aka.ms/SecurityWebinars)  
+* [Microsoft Identity Twitter Spaces](https://425show.azurewebsites.net/spaces)  
 ### Introduction
 * [Introduction to sentinel](https://www.youtube.com/watch?v=7An7BB-CcQI)  
 * [Introduction to Sentinel-SOC](https://www.youtube.com/watch?v=HloK6Ay4h1M)  
 ### Labs
 * [Simuland](https://github.com/Azure/SimuLand)  
-
+* [Azure AD Attack-Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)  
+* [Sysinternal Live](http://live.sysinternals.com/)  
 ## Other
 * [MSRC blog](https://msrc-blog.microsoft.com/)  
 * [What's Next In Microsoft Security](https://mssecurityinnovationevent.eventcore.com/) 
 * [Microsoft Security Blog](https://www.microsoft.com/security/blog/)  
 * [AzureSpringClean](https://www.azurespringclean.com/)  
 * [AzurePortal-How-To Series](https://www.youtube.com/playlist?list=PLLasX02E8BPBKgXP4oflOL29TtqTzwhxR)  
+* [MicrosoftSecurityInsights-Twitch](https://www.twitch.tv/microsoftsecurityinsights)  
 
 ## Microsoft Defender Endpoint
 ### Follow and Be Updated
