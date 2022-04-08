@@ -81,7 +81,8 @@
 * [AzureSpringClean](https://www.azurespringclean.com/)  
 * [AzurePortal-How-To Series](https://www.youtube.com/playlist?list=PLLasX02E8BPBKgXP4oflOL29TtqTzwhxR)  
 * [MicrosoftSecurityInsights-Twitch](https://www.twitch.tv/microsoftsecurityinsights)  
-
+### podcasts
+* [Azure Security Podcasts](https://azsecuritypodcast.net/)  
 ## Microsoft Defender Endpoint
 ### Follow and Be Updated
 * [Microsoft Defender Endpoint-Linkedin](https://www.linkedin.com/groups/12401063/)  
