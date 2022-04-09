@@ -62,7 +62,7 @@
 * [O365Blog](https://o365blog.com/)
 * [Cloud-Architekt](https://www.cloud-architekt.net/)  
 * [LearnSentinel Blog](https://learnsentinel.blog/)    
-
+* [MicrosoftInternals Blog](https://m365internals.com/category/azure-sentinel/)  
 ### Webinars 
 * [Microsoft Sentinel Youtube Channel](https://www.youtube.com/hashtag/microsoftsentinel)  
 * [Azure Sentinel Security Webinars](https://aka.ms/SecurityWebinars)  
