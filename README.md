@@ -1,4 +1,4 @@
-# Awesome-Microsoft-Sentinel
+# Awesome-Azure-Security
 ## KQL Resources
 ### Begginer Sources
 * [MustLearnKQL For Begginers](https://github.com/rod-trent/MustLearnKQL)  
