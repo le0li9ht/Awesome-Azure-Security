@@ -64,6 +64,7 @@
 * [LearnSentinel Blog](https://learnsentinel.blog/)    
 * [MicrosoftInternals Blog](https://m365internals.com/category/azure-sentinel/) 
 * [MSconfig Blog](https://misconfig.io)   
+* [CloudBrothers Blog](https://cloudbrothers.info/en/)  
 ### Webinars 
 * [Microsoft Sentinel Youtube Channel](https://www.youtube.com/hashtag/microsoftsentinel)  
 * [Azure Sentinel Security Webinars](https://aka.ms/SecurityWebinars)  
