@@ -76,6 +76,7 @@
 * [Simuland](https://github.com/Azure/SimuLand)  
 * [Azure AD Attack-Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)  
 * [Sysinternal Live](http://live.sysinternals.com/)  
+* [AZ-500 Labs](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/)  
 ## Other
 * [MSRC blog](https://msrc-blog.microsoft.com/)  
 * [What's Next In Microsoft Security](https://mssecurityinnovationevent.eventcore.com/) 
