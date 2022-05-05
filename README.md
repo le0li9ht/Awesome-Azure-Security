@@ -67,6 +67,7 @@
 * [CloudBrothers Blog](https://cloudbrothers.info/en/) 
 * [Daniel Chronlund Cloud Tech Blog](https://danielchronlund.com/)  
 * [SecureCloud Blog](https://securecloud.blog/) 
+* [Joonas W](https://joonasw.net/)
 ### Webinars 
 * [Microsoft Sentinel Youtube Channel](https://www.youtube.com/hashtag/microsoftsentinel)  
 * [Azure Sentinel Security Webinars](https://aka.ms/SecurityWebinars)  
