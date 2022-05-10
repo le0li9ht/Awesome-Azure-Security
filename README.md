@@ -88,7 +88,7 @@
 * [AzurePortal-How-To Series](https://www.youtube.com/playlist?list=PLLasX02E8BPBKgXP4oflOL29TtqTzwhxR)  
 * [MicrosoftSecurityInsights-Twitch](https://www.twitch.tv/microsoftsecurityinsights)  
 * [MSportals](https://msportals.io/)  
-* [m365maps] (https://m365maps.com/)
+* [m365maps](https://m365maps.com/)
 ### podcasts
 * [Azure Security Podcasts](https://azsecuritypodcast.net/)  
 ## Microsoft Defender Endpoint
