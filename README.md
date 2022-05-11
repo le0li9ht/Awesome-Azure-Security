@@ -68,6 +68,7 @@
 * [Daniel Chronlund Cloud Tech Blog](https://danielchronlund.com/)  
 * [SecureCloud Blog](https://securecloud.blog/) 
 * [Joonas W](https://joonasw.net/)
+* [jeffreyappel](https://jeffreyappel.nl/)
 ### Webinars 
 * [Microsoft Sentinel Youtube Channel](https://www.youtube.com/hashtag/microsoftsentinel)  
 * [Azure Sentinel Security Webinars](https://aka.ms/SecurityWebinars)  
