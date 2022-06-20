@@ -90,6 +90,7 @@
 * [MicrosoftSecurityInsights-Twitch](https://www.twitch.tv/microsoftsecurityinsights)  
 * [MSportals](https://msportals.io/)  
 * [m365maps](https://m365maps.com/)
+* [AzureFeeds](https://azurefeeds.com/)  
 ### podcasts
 * [Azure Security Podcasts](https://azsecuritypodcast.net/)  
 ## Microsoft Defender Endpoint
