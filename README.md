@@ -83,7 +83,7 @@
 * [AZ-500 Labs](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/)  
 ## Other
 * [MSRC blog](https://msrc-blog.microsoft.com/)  
-* [What's Next In Microsoft Security](https://mssecurityinnovationevent.eventcore.com/) 
+* [What's Next In Microsoft Security](https://mssecuritysummit.eventcore.com/) 
 * [Microsoft Security Blog](https://www.microsoft.com/security/blog/)  
 * [AzureSpringClean](https://www.azurespringclean.com/)  
 * [AzurePortal-How-To Series](https://www.youtube.com/playlist?list=PLLasX02E8BPBKgXP4oflOL29TtqTzwhxR)  
